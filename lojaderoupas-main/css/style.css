@@ -48,7 +48,7 @@ footer{
 }
 header img{
     width: 100%;
-    height: 600px;
+    height:400px;
 }
 
 .Imgcategorias{
@@ -79,6 +79,11 @@ header img{
     width: 50px;
     height: 50px;
 }
+
+#whatsapp{width: 200px;
+    height: 90px;
+}
+
 footer{
     border: 3px solid rgb(0, 0, 0);
     border-left: 0px;
@@ -94,6 +99,7 @@ footer{
 }
 footer a{
 }
+
 
 @media screen  and (max-width: 768px){
     .Imgcategorias{
